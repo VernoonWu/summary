@@ -75,7 +75,7 @@
        }
        ```
 
-       ![test](F:\sharefiles\graphviz\test.png)
+       ![test](https://github.com/VernoonWu/summary/blob/master/pic.png)
 
      * 递归生成多个结点   
 
