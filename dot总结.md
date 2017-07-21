@@ -29,7 +29,7 @@
      | label        |     --      | 任意字符串                                    |
      | labeljust    |  centered   | l和r用于cluster标签的左对齐和右对齐                   |
      | labelloc     |     top     | t和b用于cluster标签的上对齐和下对齐                   |
-     | layers       |     --      | id:id:id...                              |
+     | layers       |     --      | id:id:id                                 |
      | margin       |     0.5     | page的空白，英寸                               |
      | mclimit      |      1      | mincross的跌带比例因子                          |
      | nodesep      |    0.25     | 结点之间的间隔，英寸                               |
