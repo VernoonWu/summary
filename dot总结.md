@@ -83,7 +83,7 @@
        digraph structs
        {
        	node[shape=record];
-           struct1[shape=record,label="<f0> left|<f1> mid\ dle|<f2> right"];
+           struct1[shape=record,label="<f0> left|<f1> middle|<f2> right"];
            struct2[shape=record,label="<f0> one|<f1> two"];
            struct3[shape=record,label="hello\nworld |{ b |{c|<here> d|e}| f}| g | h"];
            struct1->struct2;
@@ -91,7 +91,7 @@
        }
        ```
 
-![test2](F:\sharefiles\graphviz\test2.png)
+![test2](https://github.com/VernoonWu/summary/blob/master/pic2.png)
 
   2.  结点属性汇总
 
