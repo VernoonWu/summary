@@ -75,7 +75,11 @@
        }
        ```
 
-       ![test](https://github.com/VernoonWu/summary/blob/master/pic.png)
+      <div align=center>
+      <img src="https://github.com/VernoonWu/summary/blob/master/pic.png/>
+      </div>
+
+       <!-![test](https://github.com/VernoonWu/summary/blob/master/pic.png)->
 
      * 递归生成多个结点   
 
