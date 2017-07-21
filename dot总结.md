@@ -29,7 +29,7 @@
      | label        |     --      | 任意字符串                                    |
      | labeljust    |  centered   | l和r用于cluster标签的左对齐和右对齐                   |
      | labelloc     |     top     | t和b用于cluster标签的上对齐和下对齐                   |
-     | layers       |     --      | id:id:id                                 |
+     | layers       |     --      | id\:id\:id                                 |
      | margin       |     0.5     | page的空白，英寸                               |
      | mclimit      |      1      | mincross的跌带比例因子                          |
      | nodesep      |    0.25     | 结点之间的间隔，英寸                               |
@@ -108,7 +108,7 @@
       | group       |       --        | 结点所属的组                     |
       | height      |       .5        | 以英寸为单位的高度                  |
       | label       |       结点名       | 任意字符串                      |
-      | layer       |      覆盖范围       | all ,id 或 id:id            |
+      | layer       |      覆盖范围       | all,id 或 id\:id            |
       | orientation |       0.0       | 结点旋转角度                     |
       | peripheries |      形状依赖       | 结点界限数量                     |
       | regular     |      false      | 使多边形变得规则                   |
@@ -149,7 +149,7 @@
   | labelfontcolor |     black      | 标签字体颜色                       |
   | labelfontname  |  Times-Roman   | 标签字体族                        |
   | labelfontsize  |       14       | 标签字体大小                       |
-  | layer          | overlay  range | all,id,或id:id                |
+  | layer          | overlay  range | all,id,或id\:id                |
   | lhead          |       --       | 箭头使用的簇(cluster)的名字           |
   | ltail          |       --       | 箭尾使用的簇(cluster)的名字           |
   | minlen         |       1        | 头尾间最小长度                      |
